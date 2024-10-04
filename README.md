@@ -1,6 +1,6 @@
 # provider_counter_app
 
-<h1 align="center">🔶🔸Topic: State Management🔸🔶</h1>
+<h1 align="center">🔶🔸 State Management with Provider🔸🔶</h1>
 
 <p>
  
